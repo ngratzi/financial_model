@@ -3,6 +3,8 @@
 **Author**
 Nick Gratzick
 
+Note: To run workbook, please download the data to your machine and put into a data/ at the top level of the repo. Link to Kaggle is below in the document
+
 #### Executive summary
 The ascent of Buy Now, Pay Later (BNPL) as a favored financial model among modern consumers is reshaping the landscape of retail and consumer finance. This innovative approach allows shoppers to defer payments with minimal to no interest, offering an appealing alternative to traditional credit. Its rising popularity underscores a pivotal shift towards more flexible and consumer-friendly payment solutions, particularly among younger demographics who value simplicity and transparency in their financial transactions.
 
