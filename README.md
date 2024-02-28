@@ -5,7 +5,7 @@ Nick Gratzick
 
 Note: To run workbook, please download the data to your machine and put into a data/ at the top level of the repo. Link to Kaggle is below in the document
 
-Workbook:[My Analysis](analysis.ipynb "Analysis")
+Workbook: [My Analysis](analysis.ipynb "Analysis")
 
 
 #### Executive summary
